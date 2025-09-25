@@ -1,4 +1,4 @@
-# AAAAAAAAAAAaA tool use to translate English in terminal
+# BBBBBBBBBBBB tool use to translate English in terminal
 
 ## Install
 
